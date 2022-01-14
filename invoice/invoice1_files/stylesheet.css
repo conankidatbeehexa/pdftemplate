@@ -20,7 +20,6 @@
 /*  Basic Style 
 /* =================================== */
 body {
-  background: #e7e9ed;
   color: #535b61;
   font-family: "Poppins", sans-serif;
   font-size: 14px;
@@ -489,11 +488,10 @@ hr {
 /*  Layouts
 /* =================================== */
 .invoice-container {
-  margin: 15px auto;
+  margin: 0;
   padding: 70px;
-  max-width: 850px;
+  max-width: 100%;
   background-color: #fff;
-  border: 1px solid #ccc;
   -moz-border-radius: 6px;
   -webkit-border-radius: 6px;
   -o-border-radius: 6px;

@@ -489,7 +489,7 @@ hr {
 /* =================================== */
 .invoice-container {
   margin: 0;
-  padding: 70px;
+  padding: 0;
   max-width: 100%;
   background-color: #fff;
   -moz-border-radius: 6px;
